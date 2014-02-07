@@ -1,2 +1,2 @@
-Reflexe Media Bundle
+Media Bundle
 ========================
